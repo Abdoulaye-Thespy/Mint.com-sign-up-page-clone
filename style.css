@@ -4,36 +4,36 @@
 }
 
 body {
-  background:lightgray;
+  background: lightgray;
   font-family: sans-serif;
 }
 
 nav {
   display: flex;
   justify-content: flex-end;
-  padding: .5rem;
+  padding: 0.5rem;
 }
 
-#sign-in-option-text{
+#sign-in-option-text {
   line-height: 5px;
 }
 
 .option-text {
-  padding-top: .8rem;
+  padding-top: 0.8rem;
   font-size: 12px;
 }
 
 .option-text a {
-    text-decoration: none;
-    margin-top: .5rem;
+  text-decoration: none;
+  margin-top: 0.5rem;
 }
 
 #sign_in_button {
   background-color: rgb(108, 108, 228);
-  border-radius: .5rem;
+  border-radius: 0.5rem;
   text-align: center;
-  padding-top: .6rem;
-  padding-bottom: .6rem;
+  padding-top: 0.6rem;
+  padding-bottom: 0.6rem;
   padding-left: 1.3rem;
   padding-right: 1.3rem;
   border: none;
@@ -42,7 +42,7 @@ nav {
   color: #fff;
 }
 
-#main-container{
+#main-container {
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -50,33 +50,33 @@ nav {
   margin-top: 2rem;
 }
 
-.site-logo-and-links{
+.site-logo-and-links {
   text-align: center;
 }
 
-#main-title{
+#main-title {
   font-size: 49px;
   letter-spacing: 3px;
   font-weight: 900;
 }
 
-.external-link{
+.external-link {
   color: #353333;
-  padding: .5rem;
+  padding: 0.5rem;
   cursor: pointer;
 }
 
-#mint i{
+#mint i {
   color: rgb(45, 149, 214);
   font-size: 1.5rem;
 }
 
-#quickbooks i{
+#quickbooks i {
   color: green;
   font-size: 1.5rem;
 }
 
-#turbo i{
+#turbo i {
   color: red;
   font-size: 1.5rem;
 }
