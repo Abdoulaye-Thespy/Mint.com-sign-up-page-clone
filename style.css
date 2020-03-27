@@ -48,7 +48,6 @@ nav {
   justify-content: center;
   align-items: center;
   margin-top: 2rem;
-  margin: auto;
 }
 
 .site-logo-and-links {
@@ -111,6 +110,11 @@ form {
   text-align: center;
 }
 
+.footer-link a {
+  margin: 10px;
+  text-decoration: none;
+}
+
 #text2-in-form-container a {
   text-decoration: none;
 }
@@ -170,17 +174,11 @@ form {
   margin-bottom: 1rem;
 }
 
-.footer-link a {
-  margin: 10px;
-  text-decoration: none;
-}
-
 .footer-text {
   display: flex;
   justify-content: space-between;
   margin-top: 0.5rem;
   max-width: 900px;
-  margin: auto;
 }
 
 #privacy-settings-btn {
