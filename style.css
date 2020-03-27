@@ -80,3 +80,53 @@ nav {
   color: red;
   font-size: 1.5rem;
 }
+
+
+.form-container {
+  align-items: center;
+  max-width: 24rem;
+  background-color: white;
+  border: 1px solid black;
+  padding: 1rem;
+  margin-top: 1.5rem;
+
+}
+
+form input {
+  width: 18rem;
+  height: 2rem;
+}
+form {
+  margin: 2rem;
+
+}
+
+#text1-in-form-container {
+  text-align: center;
+  font-size: 20px;
+}
+#text2-in-form-container {
+  font-size: 12px;
+  text-align: center;
+}
+#text2-in-form-container a{
+text-decoration: none;
+}
+
+#form-btn{
+  width: 100%;
+  background-color: rgb(108, 108, 228);
+  border-radius: 0.5rem;
+  text-align: center;
+  padding-top: 0.6rem;
+  padding-bottom: 0.6rem;
+  padding-right: 1.3rem;
+  border: none;
+  border: 1px solid #000;
+  color: #fff;
+
+}
+
+#phone_text{
+  font-size: 10px;
+}
