@@ -16,13 +16,13 @@ https://abdoulaye-thespy.github.io/Mint.com-sign-up-page-clone/
 
 ## Authors
 
-👤 **Author1**
+👤 **Abdoulaye-Thespy**
 
 - Github: https://github.com/Abdoulaye-Thespy
 - Twitter: https://twitter.com/AbdoulayeThe
 - Linkedin: https://www.linkedin.com/in/njigouh-abdoulaye-8b02621a4/
 
-👤 **Author2**
+👤 **Clayton Siby**
 
 - Github: https://github.com/ClaytonSiby 
 - Twitter: https://twitter.com/ClaytonSiby 
