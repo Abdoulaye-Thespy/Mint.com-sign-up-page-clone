@@ -1,189 +1,196 @@
 * {
-	padding: 0;
-	margin: 0;
+  padding: 0;
+  margin: 0;
 }
 
 body {
-	background: lightgray;
-	font-family: sans-serif;
+  background: lightgray;
+  font-family: sans-serif;
 }
 
 nav {
-	display: flex;
-	justify-content: flex-end;
-	padding: 0.5rem;
+  display: flex;
+  justify-content: flex-end;
+  padding: 0.5rem;
 }
 
 #sign-in-option-text {
-	line-height: 5px;
+  line-height: 5px;
 }
 
 .option-text {
-	padding-top: 0.8rem;
-	font-size: 12px;
+  padding-top: 0.8rem;
+  font-size: 12px;
 }
 
 .option-text a {
-	text-decoration: none;
-	margin-top: 0.5rem;
+  text-decoration: none;
+  margin-top: 0.5rem;
 }
 
 #sign_in_button {
-	background-color: rgb(108, 108, 228);
-	border-radius: 0.5rem;
-	text-align: center;
-	padding-top: 0.6rem;
-	padding-bottom: 0.6rem;
-	padding-left: 1.3rem;
-	padding-right: 1.3rem;
-	border: none;
-	border: 1px solid #000;
-	margin: 0.5rem;
-	color: #fff;
+  background-color: rgb(108, 108, 228);
+  border-radius: 0.5rem;
+  text-align: center;
+  padding-top: 0.6rem;
+  padding-bottom: 0.6rem;
+  padding-left: 1.3rem;
+  padding-right: 1.3rem;
+  border: none;
+  border: 1px solid #000;
+  margin: 0.5rem;
+  color: #fff;
 }
 
 #main-container {
-	display: flex;
-	flex-direction: column;
-	justify-content: center;
-	align-items: center;
-	margin-top: 2rem;
-	margin: auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 2rem;
+  margin: auto;
 }
 
 .site-logo-and-links {
-	text-align: center;
+  text-align: center;
 }
 
 #main-title {
-	font-size: 49px;
-	letter-spacing: 3px;
-	font-weight: 900;
+  font-size: 49px;
+  letter-spacing: 3px;
+  font-weight: 900;
 }
 
 .external-link {
-	color: #353333;
-	padding: 0.5rem;
-	cursor: pointer;
+  color: #353333;
+  padding: 0.5rem;
+  cursor: pointer;
 }
 
 #mint i {
-	color: rgb(45, 149, 214);
-	font-size: 1.5rem;
+  color: rgb(45, 149, 214);
+  font-size: 1.5rem;
 }
 
 #quickbooks i {
-	color: green;
-	font-size: 1.5rem;
+  color: green;
+  font-size: 1.5rem;
 }
 
 #turbo i {
-	color: red;
-	font-size: 1.5rem;
+  color: red;
+  font-size: 1.5rem;
 }
 
 .form-container {
-	align-items: center;
-	max-width: 24rem;
-	background-color: white;
-	border: 1px solid lightgray;
-	padding: 1rem;
-	margin-top: 1.5rem;
+  align-items: center;
+  max-width: 24rem;
+  background-color: white;
+  border: 1px solid lightgray;
+  padding: 1rem;
+  margin-top: 1.5rem;
 }
 
 form input {
-	width: 100%;
-	height: 2rem;
-	border: 1px solid lightgray;
+  width: 100%;
+  height: 2rem;
+  border: 1px solid lightgray;
 }
+
 form {
-	margin: 2rem;
+  margin: 2rem;
 }
 
 #text1-in-form-container {
-	text-align: center;
-	font-size: 1.8em;
+  text-align: center;
+  font-size: 1.8em;
 }
+
 #text2-in-form-container {
-	font-size: 12px;
-	text-align: center;
+  font-size: 12px;
+  text-align: center;
 }
+
 #text2-in-form-container a {
-	text-decoration: none;
+  text-decoration: none;
 }
 
 #form-btn {
-	width: 100%;
-	background-color: rgb(108, 108, 228);
-	border-radius: 0.5rem;
-	text-align: center;
-	padding-top: 0.6rem;
-	padding-bottom: 0.6rem;
-	padding-right: 1.3rem;
-	border: none;
-	border: 1px solid #000;
-	color: #fff;
+  width: 100%;
+  background-color: rgb(108, 108, 228);
+  border-radius: 0.5rem;
+  text-align: center;
+  padding-top: 0.6rem;
+  padding-bottom: 0.6rem;
+  padding-right: 1.3rem;
+  border: none;
+  border: 1px solid #000;
+  color: #fff;
 }
 
 #phone_text {
-	font-size: 10px;
+  font-size: 10px;
 }
 
 #form-text {
-	font-size: 12px;
-	text-align: center;
-	margin: 1.5rem;
+  font-size: 12px;
+  text-align: center;
+  margin: 1.5rem;
 }
 
 #form-footer {
-	background: lightgray;
-	max-width: 24rem;
-	border: 1px solid rgb(153, 151, 151);
-	padding-left: 4.72rem;
-	padding-right: 4.72rem;
-	padding-top: 1.5rem;
-	padding-bottom: 1.5rem;
-	text-align: center;
-	border-top: none;
+  background: lightgray;
+  max-width: 24rem;
+  border: 1px solid rgb(153, 151, 151);
+  padding-left: 4.72rem;
+  padding-right: 4.72rem;
+  padding-top: 1.5rem;
+  padding-bottom: 1.5rem;
+  text-align: center;
+  border-top: none;
 }
 
 #form-footer p {
-	font-size: 9px;
-	text-align: center;
+  font-size: 9px;
+  text-align: center;
 }
 
-.main-footer{
-   display: flex;
-   justify-content: center;
-   align-items: center;
-   flex-direction: column;
-   text-align: center;
-   width: 1200px;
-   margin: 1rem;
-   font-size: 13px;
+.main-footer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  text-align: center;
+  width: 1200px;
+  margin: 1rem;
+  font-size: 13px;
 }
 
-#footer-links{
-   margin-bottom: 1rem;
+#footer-links {
+  margin-bottom: 1rem;
 }
 
-.footer-link a{
+.footer-link a {
   margin: 10px;
   text-decoration: none;
 }
 
-.footer-text{
-  
+.footer-text {
   display: flex;
   justify-content: space-between;
-  margin-top: .5rem;
+  margin-top: 0.5rem;
   max-width: 900px;
   margin: auto;
 }
 
-#privacy-settings-btn{
+#privacy-settings-btn {
   width: 20%;
   background: gray;
   border: none;
-  padding: .5rem;
+  padding: 0.5rem;
+  cursor: pointer;
+}
+
+#privacy-settings-btn:hover{
+  color: lightgray;
 }
