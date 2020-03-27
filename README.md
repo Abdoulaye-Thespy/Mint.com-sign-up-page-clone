@@ -5,3 +5,6 @@
 # Collaborators
 * Njigouh Abdoulaye Razak.
 * Clayton Siby.
+
+# project screenshot
+![screenshot]("images/MintSignUpPage.png")
