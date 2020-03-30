@@ -4,7 +4,7 @@
 }
 
 body {
-  background: lightgray;
+  background: rgb(236, 233, 233);
   font-family: sans-serif;
 }
 
@@ -50,44 +50,28 @@ nav {
   margin-top: 2rem;
 }
 
-.site-logo-and-links {
+.logo {
+  max-width: 24rem;
   text-align: center;
+  margin: 0;
+  padding: 0;
+  border: none;
 }
 
-#main-title {
-  font-size: 49px;
-  letter-spacing: 3px;
-  font-weight: 900;
-}
-
-.external-link {
-  color: #353333;
-  padding: 0.5rem;
+#logo-image {
+  width: 24rem;
   cursor: pointer;
-}
-
-#mint i {
-  color: rgb(45, 149, 214);
-  font-size: 1.5rem;
-}
-
-#quickbooks i {
-  color: green;
-  font-size: 1.5rem;
-}
-
-#turbo i {
-  color: red;
-  font-size: 1.5rem;
 }
 
 .form-container {
   align-items: center;
   max-width: 24rem;
   background-color: white;
-  border: 1px solid lightgray;
-  padding: 1rem;
-  margin-top: 1.5rem;
+
+  /* border: 1px solid lightgray; */
+
+  /* margin-top: 1.5rem; */
+  padding-top: 1.5rem;
 }
 
 form input {
@@ -146,10 +130,7 @@ form {
   background: lightgray;
   max-width: 24rem;
   border: 1px solid rgb(153, 151, 151);
-  padding-left: 4.72rem;
-  padding-right: 4.72rem;
-  padding-top: 1.5rem;
-  padding-bottom: 1.5rem;
+  padding: 1.5rem;
   text-align: center;
   border-top: none;
 }
@@ -179,16 +160,4 @@ form {
   justify-content: space-between;
   margin-top: 0.5rem;
   max-width: 900px;
-}
-
-#privacy-settings-btn {
-  width: 20%;
-  background: gray;
-  border: none;
-  padding: 0.5rem;
-  cursor: pointer;
-}
-
-#privacy-settings-btn:hover {
-  color: lightgray;
 }
