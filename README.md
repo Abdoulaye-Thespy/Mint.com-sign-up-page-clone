@@ -1,7 +1,7 @@
 # Mint.com-sign-up-page-clone
 * This is a mint.com sign up page clone ( replicate ). 
 # project screenshot
-![screenshot](images/MintSignUpPage.png)
+![screenshot](images/screenshot.png)
 * Additional description about the project and its features.
 ## Built with:
  # majors languages:
