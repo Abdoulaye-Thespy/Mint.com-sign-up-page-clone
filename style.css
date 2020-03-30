@@ -161,4 +161,6 @@ form {
   margin-top: 0.5rem;
   max-width: 900px;
 }
-
+#email_adress,#Password,#phone_text{
+margin-bottom: 1.5rem;
+}
