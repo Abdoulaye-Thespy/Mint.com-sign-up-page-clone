@@ -29,7 +29,7 @@
 
 Contributions, issues and feature requests are welcome!
 
-Feel free to check the [issues page](issues/).
+Feel free to check the [issues page](https://github.com/Abdoulaye-Thespy/Mint.com-sign-up-page-clone/issues).
 
 ## Show your support
 
