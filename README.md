@@ -11,9 +11,6 @@
 * Njigouh Abdoulaye Razak.
 * Clayton Siby.
 
-## Live Demo
-https://abdoulaye-thespy.github.io/Mint.com-sign-up-page-clone/
-
 ## Authors
 
 👤 **Abdoulaye-Thespy**
