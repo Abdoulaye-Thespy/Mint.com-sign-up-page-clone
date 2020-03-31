@@ -3,6 +3,8 @@
 # project screenshot
 ![screenshot](images/screenshot.png)
 * Additional description about the project and its features.
+# live demo
+[live demo](https://raw.githack.com/Abdoulaye-Thespy/Mint.com-sign-up-page-clone/signuppage/index.html)
 ## Built with:
  # majors languages:
 * HTML.
